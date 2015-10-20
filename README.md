@@ -1,2 +1,7 @@
-# secchurches
-Unofficial "Lets find a church" site.
+## secchurches
+
+#### Just experiments 💥
+
+> Church finder ⛪
+> Red book 😮
+> Basic church websites 💻
