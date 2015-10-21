@@ -2,6 +2,6 @@
 
 #### Just experiments 💥
 
-> Church finder ⛪
-> Red book 😮
-> Basic church websites 💻
+* Church finder ⛪
+* Red book 😮
+* Basic church websites 💻
