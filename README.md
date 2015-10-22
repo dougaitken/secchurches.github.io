@@ -2,7 +2,7 @@
 
 #### Just experiments 💥
 
-* Church finder ⛪
+* Church finder ⛪ /finder
 * Red book 😮
 * Basic church websites 💻
 
